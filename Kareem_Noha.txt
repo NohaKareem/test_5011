@@ -1,0 +1,9 @@
+1. 
+cd <folder location>
+here:
+cd desktop\examFinal
+
+git init
+
+
+
